@@ -53,28 +53,28 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 ## Output:
 ## Data Head:
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/11.png?raw=true)
 
 ## Information:
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/22.png?raw=true)
 
 ## Null Dataset:
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/33.png?raw=true)
 
 ## Value_counts():
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/44.png?raw=true)
 
 ## Data Head:
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/55.png?raw=true)
 
 ## X.Head():
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/66.png?raw=true)
 
 ## Accuracy:
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/77.png?raw=true)
 
 ## Data Prediction:
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/88.png?raw=true)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
